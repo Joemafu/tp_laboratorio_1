@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1567030462 source:c:\users\joelcck\downloads\workspace\tp borrador\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567030462 source:c:\users\joelcck\downloads\workspace\borrador-tp\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567199196 source:c:\users\joelcck\downloads\workspace\borrador-tp\calcular.c
+	"calculadora.h"
+
+1567186884 c:\users\joelcck\downloads\workspace\borrador-tp\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+
+1567311358 source:d:\joel\workspace\borrador-tp\calcular.c
+	"calcular.h"
+
+1567311188 d:\joel\workspace\borrador-tp\calcular.h
+	<stdio.h>
+	<stdlib.h>
+
+1567310119 source:d:\joel\workspace\borrador-tp\main.c
+	"calcular.h"
+
+1567328974 source:d:\users\joe\desktop\workspace\borrador_tp\calcular.c
+	"calcular.h"
+
+1567328974 d:\users\joe\desktop\workspace\borrador_tp\calcular.h
+	<stdio.h>
+	<stdlib.h>
+
+1567395836 source:d:\users\joe\desktop\workspace\borrador_tp\main.c
+	"calcular.h"
+
+1567449686 source:c:\users\joelcck\downloads\workspace\borrador_tp\calcular.c
+	"calcular.h"
+
+1567449686 c:\users\joelcck\downloads\workspace\borrador_tp\calcular.h
+	<stdio.h>
+	<stdlib.h>
+
+1567462532 source:c:\users\joelcck\downloads\workspace\borrador_tp\main.c
+	"calcular.h"
+
