@@ -12,7 +12,10 @@ int main()
     float multiplicacion;
     double factorialA;
     double factorialB;
+    int flag;
 
+
+    flag = 0;
     /**< Inicializo las variables A y B para que no muestren basura en el menú. */
     A = 0;
     B = 0;
@@ -39,6 +42,7 @@ int main()
                 printf("Ingresar primer operando (A=%f)", A);
                 scanf("%f",  &A);
                 system("cls");
+                flag = 0;
                 break;
             }
             /**< Opción 2 permite setear el valor de B. */
@@ -47,11 +51,13 @@ int main()
                 printf("Ingresar segundo operando (B=%f)",B);
                 scanf("%f", &B);
                 system("cls");
+                flag = 0;
                 break;
             }
             /**< Opción 3 llama a cada función para realizar las operaciones solicitadas y setea los resultados. */
             case 3:
             {
+                flag = 1;
                 suma = sumar(A,B);
                 resta = restar(A,B);
                 division = dividir(A,B);
@@ -61,12 +67,19 @@ int main()
                 paraFact = (int)B;
                 factorialB = sacarFactorial(paraFact);
                 break;
+
             }
             /**< Opción 4 ejecuta un print con cada resultado. */
             case 4:
             {
+
                 /**< Muestro el valor de los operandos que ingresó el usuario. */
                 printf("A = %f\nB = %f.\n\n", A, B);
+
+                /**< Envío un mensaje de alerta si muestran los resultados sin haber realizado los calculos luego de iniciar el programa, o luego de una modificación en los operandos. */
+                if (flag == 0){
+                    printf("Atencion, no se ejecuto la opcion 3, los resultados pueden estar desactualizados.\n\n");
+                }
 
                 /**< Devuelve el resultado de función sumar. */
                 printf("El resultado de A+B es: %f\n", suma);

@@ -44,3 +44,13 @@
 1567462532 source:c:\users\joelcck\downloads\workspace\borrador_tp\main.c
 	"calcular.h"
 
+1567449686 source:c:\users\joelcck\downloads\workspace\tp_laboratorio_1\calcular.c
+	"calcular.h"
+
+1567449686 c:\users\joelcck\downloads\workspace\tp_laboratorio_1\calcular.h
+	<stdio.h>
+	<stdlib.h>
+
+1567462532 source:c:\users\joelcck\downloads\workspace\tp_laboratorio_1\main.c
+	"calcular.h"
+
