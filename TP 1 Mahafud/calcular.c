@@ -31,7 +31,7 @@ float dividir(float num1, float num2)
 
     /**< Este if hace que la función devuelva valor 0 en caso de que el divisor sea 0, de modo que en main pueda disparar un mensaje de error cuando esto suceda. */
     if(num2 == 0){
-        resultado = 0;
+        resultado = -1;
     }
     return resultado;
 }

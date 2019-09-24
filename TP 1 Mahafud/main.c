@@ -4,6 +4,7 @@ int main()
 {
     float A;
     float B;
+    int aux;
     int opcion;
     int paraFact;
     float suma;
@@ -28,7 +29,8 @@ int main()
     {
         /**< Texto del menú */
         printf("Seleccione una opcion:\n\n1-Ingresar primer operando (A=%f).\n2-Ingresar segundo operando (B=%f).\n3-Calcular todas las operaciones.\n4-Informar resultados.\n5-Salir.\n", A, B);
-        scanf("%d", &opcion);
+        scanf("%d", &aux);
+        opcion = aux;
 
         /**< Limpio la pantalla luego de seleccionar una opción. */
         system("cls");
@@ -72,7 +74,6 @@ int main()
             /**< Opción 4 ejecuta un print con cada resultado. */
             case 4:
             {
-
                 /**< Muestro el valor de los operandos que ingresó el usuario. */
                 printf("A = %f\nB = %f.\n\n", A, B);
 
@@ -88,7 +89,7 @@ int main()
                 printf("El resultado de A-B es: %f\n", resta);
 
                 /**< Este if devuelve un mensaje de error si el valor del divisor (B) es 0. En dicho caso la variable división sería = 0 ya que respondería a un if que incluí en la función dividir. */
-                if (division==0)
+                if (division==-1)
                 {
                     printf("No es posible dividir por 0.\n");
                 }
