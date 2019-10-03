@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1569017425 source:c:\users\joelcck\downloads\workspace\borrador\tp nº2 mahafud\arrayemployees.c
+	"ArrayEmployees.h"
+
+1569020736 c:\users\joelcck\downloads\workspace\borrador\tp nº2 mahafud\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1569019016 source:c:\users\joelcck\downloads\workspace\borrador\tp nº2 mahafud\main.c
+	"ArrayEmployees.h"
+
+1570119723 source:c:\users\joel\google drive\workspace\borrador\tp nº2 mahafud\arrayemployees.c
+	"ArrayEmployees.h"
+
+1570054261 c:\users\joel\google drive\workspace\borrador\tp nº2 mahafud\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1570048578 source:c:\users\joel\google drive\workspace\borrador\tp nº2 mahafud\main.c
+	"ArrayEmployees.h"
+
+1569631655 source:c:\users\joelcck\google drive\workspace\borrador\tp nº2 mahafud\main.c
+	"ArrayEmployees.h"
+
+1569629375 c:\users\joelcck\google drive\workspace\borrador\tp nº2 mahafud\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1569631599 source:c:\users\joelcck\google drive\workspace\borrador\tp nº2 mahafud\arrayemployees.c
+	"ArrayEmployees.h"
+
