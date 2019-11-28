@@ -1,0 +1,225 @@
+# depslib dependency file v1.0
+1573732834 source:d:\mahafud\borrador\tp 4 mahafud\parte 2\auxfunctions.c
+	"AuxFunctions.h"
+
+1573732834 d:\mahafud\borrador\tp 4 mahafud\parte 2\auxfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573732834 d:\mahafud\borrador\tp 4 mahafud\parte 2\linkedlist.h
+
+1573732834 d:\mahafud\borrador\tp 4 mahafud\parte 2\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AuxFunctions.h"
+
+1573732834 source:d:\mahafud\borrador\tp 4 mahafud\parte 2\controller.c
+	"Controller.h"
+
+1573732834 d:\mahafud\borrador\tp 4 mahafud\parte 2\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1573732834 d:\mahafud\borrador\tp 4 mahafud\parte 2\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573732834 source:d:\mahafud\borrador\tp 4 mahafud\parte 2\employee.c
+	"Employee.h"
+
+1573733171 source:d:\mahafud\borrador\tp 4 mahafud\parte 2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1573732834 source:d:\mahafud\borrador\tp 4 mahafud\parte 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"AuxFunctions.h"
+
+1573732834 source:d:\mahafud\borrador\tp 4 mahafud\parte 2\parser.c
+	"parser.h"
+
+1573757566 source:c:\users\joelcck\google drive\workspace\borrador\tp 4 mahafud\parte 2\auxfunctions.c
+	"AuxFunctions.h"
+
+1573757566 c:\users\joelcck\google drive\workspace\borrador\tp 4 mahafud\parte 2\auxfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573757567 c:\users\joelcck\google drive\workspace\borrador\tp 4 mahafud\parte 2\linkedlist.h
+
+1573757567 c:\users\joelcck\google drive\workspace\borrador\tp 4 mahafud\parte 2\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AuxFunctions.h"
+
+1573757566 source:c:\users\joelcck\google drive\workspace\borrador\tp 4 mahafud\parte 2\controller.c
+	"Controller.h"
+
+1573757567 c:\users\joelcck\google drive\workspace\borrador\tp 4 mahafud\parte 2\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1573757567 c:\users\joelcck\google drive\workspace\borrador\tp 4 mahafud\parte 2\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573757567 source:c:\users\joelcck\google drive\workspace\borrador\tp 4 mahafud\parte 2\employee.c
+	"Employee.h"
+
+1573757567 source:c:\users\joelcck\google drive\workspace\borrador\tp 4 mahafud\parte 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"AuxFunctions.h"
+
+1573757567 source:c:\users\joelcck\google drive\workspace\borrador\tp 4 mahafud\parte 2\parser.c
+	"parser.h"
+
+1573769000 source:c:\users\joelcck\google drive\workspace\borrador\tp 4 mahafud\parte 2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1573829128 source:d:\mahafud\borrador\tp 4 mahafud\parte 2 - optimizada\auxfunctions.c
+	"AuxFunctions.h"
+
+1573829128 d:\mahafud\borrador\tp 4 mahafud\parte 2 - optimizada\auxfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573829128 d:\mahafud\borrador\tp 4 mahafud\parte 2 - optimizada\linkedlist.h
+
+1573829128 d:\mahafud\borrador\tp 4 mahafud\parte 2 - optimizada\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AuxFunctions.h"
+
+1573829128 source:d:\mahafud\borrador\tp 4 mahafud\parte 2 - optimizada\controller.c
+	"Controller.h"
+
+1573829128 d:\mahafud\borrador\tp 4 mahafud\parte 2 - optimizada\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1573829128 d:\mahafud\borrador\tp 4 mahafud\parte 2 - optimizada\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573829128 source:d:\mahafud\borrador\tp 4 mahafud\parte 2 - optimizada\employee.c
+	"Employee.h"
+
+1573829128 source:d:\mahafud\borrador\tp 4 mahafud\parte 2 - optimizada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"AuxFunctions.h"
+
+1573829128 source:d:\mahafud\borrador\tp 4 mahafud\parte 2 - optimizada\parser.c
+	"parser.h"
+
+1573826503 source:d:\mahafud\borrador\tp 4 mahafud\parte 2 - optimizada\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574351380 source:c:\users\joel\google drive\workspace\borrador\tp 4 mahafud\parte 2 - optimizada\auxfunctions.c
+	"AuxFunctions.h"
+
+1574351380 c:\users\joel\google drive\workspace\borrador\tp 4 mahafud\parte 2 - optimizada\auxfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1574351380 c:\users\joel\google drive\workspace\borrador\tp 4 mahafud\parte 2 - optimizada\linkedlist.h
+
+1574351380 c:\users\joel\google drive\workspace\borrador\tp 4 mahafud\parte 2 - optimizada\employee.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AuxFunctions.h"
+
+1574929200 source:c:\users\joel\google drive\workspace\borrador\tp 4 mahafud\parte 2 - optimizada\controller.c
+	"Controller.h"
+
+1574351380 c:\users\joel\google drive\workspace\borrador\tp 4 mahafud\parte 2 - optimizada\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1574351380 c:\users\joel\google drive\workspace\borrador\tp 4 mahafud\parte 2 - optimizada\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1574351380 source:c:\users\joel\google drive\workspace\borrador\tp 4 mahafud\parte 2 - optimizada\employee.c
+	"Employee.h"
+
+1574933886 source:c:\users\joel\google drive\workspace\borrador\tp 4 mahafud\parte 2 - optimizada\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574933407 source:c:\users\joel\google drive\workspace\borrador\tp 4 mahafud\parte 2 - optimizada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"AuxFunctions.h"
+
+1574351380 source:c:\users\joel\google drive\workspace\borrador\tp 4 mahafud\parte 2 - optimizada\parser.c
+	"parser.h"
+
